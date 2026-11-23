@@ -1,4 +1,4 @@
-UC 00626 — Portefólio de trabalhos
+✨ UC 00626 — Portefólio de trabalhos
 
 Este repositório foi criado com o propósito de reunir e organizar os trabalhos, atividades e projetos desenvolvidos ao longo da Unidade de Competência 00626.
 
